@@ -15,6 +15,7 @@ h1 span{
     width: 100%;
     padding: 0px;
     overflow:auto;
+    position: fixed;
 }
 
 h2 {
